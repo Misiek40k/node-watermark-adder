@@ -1,0 +1,11 @@
+{
+  "name": "node-watermark-adder",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/Misiek40k/node-watermark-adder.git",
+  "author": "Misiek40k",
+  "license": "MIT",
+  "dependencies": {
+    "jimp": "0.6.4"
+  }
+}
